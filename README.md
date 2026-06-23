@@ -120,7 +120,7 @@ All 3 models evaluated on the test set using:
 | **Random Forest** | **~0.878** | **~0.882** | **~0.895** | **~0.888** | **~0.878** |
 | KNN (k=5) | ~0.829 | ~0.842 | ~0.838 | ~0.840 | ~0.829 |
 
-> ⚠️ Exact values will appear in notebook output after running — table above shows approximate expected results.
+>  Exact values will appear in notebook output after running — table above shows approximate expected results.
 
 ---
 
