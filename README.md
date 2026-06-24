@@ -124,7 +124,7 @@ All 3 models evaluated on the test set using:
 
 ---
 
-## 🏆 Best Model: Random Forest
+## 🏆 Best Model from The Result: Random Forest
 
 **Why Random Forest won:**
 - Highest F1 Score and ROC-AUC across all metrics
