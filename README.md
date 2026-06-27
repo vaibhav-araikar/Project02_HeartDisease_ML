@@ -14,7 +14,7 @@ This project builds, trains, and evaluates **3 machine learning classification m
 ## 📁 Repository Structure
 
 ```
-├── Project02_HeartDisease_ML.ipynb  # Main Jupyter notebook (all code + outputs)
+├── Project02_HeartDisease_ML.ipynb  # Main Jupyter notebook 
 ├── heart.csv                        # Dataset (download from Kaggle link below)
 ├── charts/
 │   ├── p2_chart1_correlation_heatmap.png
